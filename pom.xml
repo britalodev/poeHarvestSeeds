@@ -15,7 +15,7 @@
 	<description>Projeto para identificação de tipos de crafts por seeds.</description>
 
 	<properties>
-		<java.version>14</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
